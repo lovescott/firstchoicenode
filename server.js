@@ -12,6 +12,7 @@ var mimeTypes = {
 	"js":"text/javascript",
 	"less":"text/css",
 	"css":"text/css"};
+var port = process.env.PORT || 1337;
 
 function output(filePath){
 	var output = xmlJson(filePath)
@@ -145,4 +146,4 @@ http.createServer(function (request, response) {
 		response.end();
 	}
 
-}).listen(80);
+}).listen(port);
