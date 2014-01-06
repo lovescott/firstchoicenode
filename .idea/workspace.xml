@@ -25,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="1" selection-start="53" selection-end="53" vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="498">
+            <state line="1" column="4" selection-start="3" selection-end="3" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="16" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+            <state line="5" column="16" selection-start="201" selection-end="201" vertical-scroll-proportion="0.14367816" vertical-offset="0" max-vertical-offset="522">
               <folding />
             </state>
           </provider>
@@ -232,16 +232,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+        <state line="1" column="4" selection-start="3" selection-end="3" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="150">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="1" selection-start="53" selection-end="53" vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="498">
+        <state line="5" column="16" selection-start="201" selection-end="201" vertical-scroll-proportion="0.14367816" vertical-offset="0" max-vertical-offset="522">
           <folding />
         </state>
       </provider>
